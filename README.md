@@ -1,4 +1,4 @@
-# Taco Addon  
+# **Taco Addon**  
 ## For Meteor 1.21  
 
 ### Features:  
@@ -22,4 +22,7 @@
 ##### WurstClanOnTop - WurstClanOnTOp  
 
 
-###### Please note that none of these hacks (except for the HUD module) actually do anything, they are just decorative. 
+###### *Please note that none of these hacks (except for the HUD module) actually do anything, they are just decorative.*  
+
+
+If you find any bugs, please report them on the issues tab or contact me on [discord](https://discord.gg/sHWdbRQeSR/)
