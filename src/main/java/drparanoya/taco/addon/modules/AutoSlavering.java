@@ -16,6 +16,6 @@ import net.minecraft.util.math.Box;
 
 public class AutoSlavering extends Module {
     public AutoSlavering   () {
-        super(Taco.TACO, "AutoSlavering", "Automatically enslaves niggas");
+        super(Taco.TACO, "AutoSlavering", "Automatically enslaves your enemy");
     }
 }
