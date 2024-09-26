@@ -1,7 +1,8 @@
 # Taco Addon  
 ## For Meteor 1.21  
 
-### Features:
+### Features:  
+#### Modules:  
 ##### AntiFBI - Protects you from the FBI  
 ##### PlaneAura - Usefull for destroying towers  
 ##### AntiArrest - Protects you from getting arrested  
@@ -15,6 +16,8 @@
 ##### GalaxyBrain - Gives you a GalaxyBrain  
 ##### AutoSlavering - Automatically enslaves your enemy  
 ##### NoSkillIssue - Only people with skill issue would activate this  
+#### Hud Elemets:  
+##### WurstClanOnTop - WurstClanOnTOp  
 
 
 ###### Please note that none of these hacks (except for the HUD module) actually do anything, they are just decorative. 
