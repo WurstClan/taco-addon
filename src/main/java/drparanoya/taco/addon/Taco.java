@@ -24,7 +24,6 @@ public class Taco extends MeteorAddon {
 
         // Modules
         Modules.get().add(new AntiFBI());
-        Modules.get().add(new NoNiggaRender());
         Modules.get().add(new PlaneAura());
         Modules.get().add(new AntiArresting());
         Modules.get().add(new NoStreakLoss());
