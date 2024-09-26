@@ -13,5 +13,8 @@
 ##### AutoRizz - Rizzes everyone  
 ##### NoBrainrot - Protects your Brain against Skibi Toilet  
 ##### GalaxyBrain - Gives you a GalaxyBrain  
-##### AutoSlavering - Automatically enslaves niggas  
+##### AutoSlavering - Automatically enslaves your enemy  
 ##### NoSkillIssue - Only people with skill issue would activate this  
+
+
+Please note that none of these hacks (except for the HUD module) actually do anything, they are just decorative. 
