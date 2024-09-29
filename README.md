@@ -20,6 +20,7 @@
 
 #### Hud Elemets:  
 ##### WurstClanOnTop - WurstClanOnTOp  
+##### DancingTaco - official port of the WurstClient .taco command
 
 
 ###### *Please note that none of these hacks (except for the HUD module) actually do anything, they are just decorative.*  
