@@ -1,6 +1,7 @@
 # **Taco Addon**  
 ## For Meteor 1.21  
-
+## Download latest:  
+## [![alt-text](http://gallery.pix2d.com/Image?id=8b9a03e4-c9e6-42d2-b635-9b78eedf824a&type=png&stuff=pixelartstudio_export&author=Download)](https://github.com/WurstClan/taco-addon/releases/download/latest/taco-addonv1.1.jar)
 ### Features:  
 
 #### Modules:  
