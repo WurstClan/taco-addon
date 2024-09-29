@@ -38,6 +38,7 @@ public class Taco extends MeteorAddon {
 
         // HUD
         Hud.get().register(WurstClanOnTop.INFO);
+        Hud.get().register(DancingTaco.INFO);
     }
 
     @Override
